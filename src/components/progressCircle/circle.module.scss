@@ -1,0 +1,21 @@
+.circle{
+  border-radius: 100%;
+  border-style: 'solid';
+  transform-origin: center;
+}
+
+.backCicrle{
+  position: relative;
+}
+
+.firstCircle{
+  position: absolute;
+  top: -2px;
+  left: -2px;
+}
+
+.secondCircle{
+  position: absolute;
+  top: -2px;
+  left: -2px;
+}

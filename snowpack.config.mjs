@@ -5,6 +5,7 @@ export default {
     src: { url: '/dist' },
   },
   plugins: [
+    '@snowpack/plugin-sass',
     '@snowpack/plugin-react-refresh',
     '@snowpack/plugin-dotenv',
     [
